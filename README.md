@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Wallos is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://wallosapp.com/
+Wallos is an open-source personal subscription tracker that helps users manage and monitor their recurring expenses across various services. It provides a web interface to add, edit, and view subscription details, set reminders, and generate reports, empowering individuals to gain control over their finances and avoid unwanted charges.
+
+**Areas:** Company · Subscription · Finance · OpenSource · Tracker · Personal
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://wallosapp.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/wallos/](https://apis.io/providers/wallos/).
